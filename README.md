@@ -1,6 +1,6 @@
-# filesAndDirectories
+# file-runner
 
-`filesAndDirectories` is a small Java web application for scanning local folders and presenting their contents in a browser.
+`file-runner` is a small Java web application for scanning local folders and presenting their contents in a browser.
 
 The app lets a user:
 
